@@ -1,4 +1,4 @@
 # lxl.github.io
-webside test
+webSide test
 
 https://xiaolu0018.github.io/lxl/
